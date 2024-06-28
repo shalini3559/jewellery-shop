@@ -1,0 +1,2 @@
+# jewellery-shop
+simple project
